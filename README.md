@@ -41,4 +41,6 @@ Includes machine learning or optimization methods and a final integrated system.
 - Emmanuel Denzel Opiyo — SCT213-C002-0013/2024  
 - Cedric Baraka — SCT213-C002-0111/2024  
 - Gadamba Grace — SCT213-C002-0075/2024
+- Maryanne Peace - SCT213-C002-0074/2024
 - Mabarak Abdala - SCT213-C002-0052/2024
+
